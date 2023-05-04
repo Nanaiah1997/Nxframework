@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@nrwl/react": "^15.7.2"
+  }
+}
